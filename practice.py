@@ -1,3 +1,3 @@
 message = ("You did it!")
-name = ("Cynthi
+name = ("Cynthia
            
